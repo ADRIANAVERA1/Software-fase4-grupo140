@@ -19,3 +19,6 @@ class Cliente:
 
     def get_documento(self):
         return self.__documento
+
+    def __str__(self):
+        return self.__nombre
