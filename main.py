@@ -27,7 +27,7 @@ while True:
             # SERVICIO
             print("\nSERVICIOS DISPONIBLES")
             print("1. Sala VIP: 50.000 COP/hora")
-            print("2. Alquiler Equipo: 30.000 COP/hora + 20.000 COP cargo fijo")
+            print("2. Alquiler Equipo: 30.000 COP/hora + 2.000 COP cargo fijo")
             print("3. Asesoría: 60.000 COP/hora + 15% adicional")
 
             op_servicio = input("Seleccione el servicio: ")
