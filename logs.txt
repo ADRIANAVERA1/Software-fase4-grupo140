@@ -1,1 +1,5 @@
 Se registran eventos dentro del sistema
+[2026-05-11 22:20:20] Documento inválido
+[2026-05-11 22:20:27] Documento inválido
+[2026-05-11 22:26:26] Documento inválido
+[2026-05-11 22:26:40] Documento inválido
