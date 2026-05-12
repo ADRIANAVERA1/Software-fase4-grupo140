@@ -3,3 +3,9 @@ Se registran eventos dentro del sistema
 [2026-05-11 22:20:27] Documento inválido
 [2026-05-11 22:26:26] Documento inválido
 [2026-05-11 22:26:40] Documento inválido
+[2026-05-11 22:41:41] Caso 2: El nombre no puede estar vacío
+[2026-05-11 22:41:41] Caso 3: Documento inválido
+[2026-05-11 22:41:41] Caso 5: Las horas deben ser un número mayor a cero
+[2026-05-11 22:41:41] Caso 6: Tipo de servicio no reconocido
+[2026-05-11 22:41:41] Caso 7: Las horas deben ser un número mayor a cero
+[2026-05-11 22:41:41] Caso 9: El nombre no puede estar vacío
